@@ -1,0 +1,5 @@
+my_tuple = (1, 2, 3, 4)
+my_list = list(my_tuple)
+elave = int(input("Eded elave et: "))
+my_list.append(elave)
+print (my_list)
